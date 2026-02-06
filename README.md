@@ -2,6 +2,7 @@
 
 A full-stack AI-powered web application that generates professional, personalized cover letters using user inputs, job descriptions, and uploaded resumes. Built with modern UI, secure API handling, and real-world SaaS-level architecture.
 
+🔗 Live Demo Link: https://ai-cover-letter-frontend.vercel.app/
 ---
 
 ## ✨ Features
